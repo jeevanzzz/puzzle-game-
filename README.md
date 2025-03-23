@@ -18,7 +18,7 @@ Picture Perfect Puzzle is a Java-based puzzle game where users can solve image-b
 
 **Steps to Run:**
 1. Clone this repository:
-`git clone https://github.com/jeevanzzz/Picture_Perfect_Puzzle.git`
+`git clone https://github.com/jeevanzzz/puzzle-game-.git`
 
 2. Navigate to the project directory:
 `cd Picture_Perfect_Puzzle`

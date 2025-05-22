@@ -1,5 +1,6 @@
 # 🧩 Picture Perfect Puzzle
 A fun and interactive Java-based image puzzle game developed Using **Java with AWT and SWING**
+
 ![image alt](https://github.com/jeevanzzz/puzzle-game-/blob/268825562b106b69e1c1d3eb59f87e3177022ca2/Screenshot%202025-03-21%20104555.png)
 
 ## 📸 About

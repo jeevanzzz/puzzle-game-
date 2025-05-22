@@ -11,7 +11,7 @@ Picture Perfect Puzzle is a Java-based puzzle game where users can solve image-b
 *Engaging user interface
 
 **Installation:**
-*Prerequisites*
+**Prerequisites**
 *Java Development Kit (JDK) 8 or later
 *An IDE (e.g., Eclipse, IntelliJ IDEA) or a terminal to run Java programs
 *An Visual Studio Code using java
@@ -28,7 +28,6 @@ Picture Perfect Puzzle is a Java-based puzzle game where users can solve image-b
     java -cp bin jeevan.picture_puzzle.PicturePuzzle`
 
 **Usage**
-
 *Launch the game and select an image.
 *Rearrange the puzzle pieces to complete the picture.
 *Once all pieces are in place, the game confirms completion.

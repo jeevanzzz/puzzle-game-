@@ -74,7 +74,8 @@ A fun and interactive Java-based image puzzle game developed Using **Java with A
 - Once all pieces are in place, the game confirms completion.
 
 **📃 License**
-- This project is for educational purposes and not intended for commercial use.
+- This project is licensed under the MIT License.
+- You may freely use, modify, and distribute this software with proper attribution.
 
 ## 📬 Contact
 For any questions, feedback, or contributions:

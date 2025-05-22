@@ -27,7 +27,7 @@ A fun and interactive Java-based image puzzle game developed Using **Java with A
 - Alternatively, any IDE like Eclipse or IntelliJ IDEA
 
   
-### ** 🚀 Steps to Run in Visual Studio Code**
+## 🚀 Steps to Run in Visual Studio Code
 1. **Clone the repository**
 `git clone https://github.com/jeevanzzz/puzzle-game-.git`
 `cd puzzle-game-/Picture_Perfect_Puzzle`
@@ -64,16 +64,16 @@ A fun and interactive Java-based image puzzle game developed Using **Java with A
    - 2 → OGGY AND THE COCKROACHES
    - 3 → TOM AND JERRY
      
-**📸 Screenshots**
+## 📸 Screenshots
 
 ![image alt](https://github.com/jeevanzzz/puzzle-game-/blob/268825562b106b69e1c1d3eb59f87e3177022ca2/Screenshot%202025-03-21%20104555.png)
 
-**✅ Usage**
+## ✅ Usage
 - Launch the game and select an image.
 - Rearrange the puzzle pieces to complete the picture.
 - Once all pieces are in place, the game confirms completion.
 
-**📃 License**
+## 📃 License
 - This project is licensed under the MIT License.
 - You may freely use, modify, and distribute this software with proper attribution.
 

@@ -1,8 +1,6 @@
 # 🧩 Picture Perfect Puzzle
 A fun and interactive Java-based image puzzle game developed Using **Java with AWT and SWING**
 
-![image alt](https://github.com/jeevanzzz/puzzle-game-/blob/268825562b106b69e1c1d3eb59f87e3177022ca2/Screenshot%202025-03-21%20104555.png)
-
 ## 📸 About
 **Picture Perfect Puzzle** challenges users to solve a shuffled 3x3 image puzzle. Choose from one of three cartoon images—Doraemon, Oggy and the Cockroaches, or Tom and Jerry—and try to rearrange the pieces back into the original image.
 
@@ -65,6 +63,10 @@ A fun and interactive Java-based image puzzle game developed Using **Java with A
    - 1 → DOREMON
    - 2 → OGGY AND THE COCKROACHES
    - 3 → TOM AND JERRY
+     
+**📸 Screenshots**
+
+![image alt](https://github.com/jeevanzzz/puzzle-game-/blob/268825562b106b69e1c1d3eb59f87e3177022ca2/Screenshot%202025-03-21%20104555.png)
 
 **✅ Usage**
 - Launch the game and select an image.
